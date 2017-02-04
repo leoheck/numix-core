@@ -14,5 +14,5 @@ data_obj.close()
 
 try:
     validator.validate(json.loads(data))
-except jsonspec.validators.exceptions.ValidationError:
+except exceptions.ValidationError:
     exit("The json file is not following the correct schema.")
