@@ -13,5 +13,6 @@ install:
   - "sudo apt-get -y install inkscape icnsutils python3-pip"
   - "pip3 install json-spec cairosvg"
 script: 
-  - "cd ./tests/ && python3 validate-json.py"
-  - "cd ./tests/ && python3 order.py"
+  - "cd ./tests/"
+  - "python3 validate-json.py"
+  - "python3 order.py"
