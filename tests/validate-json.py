@@ -1,4 +1,4 @@
-from jsonspec.validators import load
+from jsonspec.validators import load, exceptions
 import json
 
 
@@ -12,4 +12,7 @@ with open('../data.json', 'r') as data_obj:
     data = data_obj.read()
 data_obj.close()
 
-validator.validate(json.loads(data))
+try:
+    validator.validate(json.loads(data))
+except jsonspec.validators.exceptions.ValidationError:
+    exit("The json file is not following the correct schema.")
