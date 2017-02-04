@@ -11,7 +11,7 @@ python:
   - "3.6"
 install:
   - "sudo apt-get -y update"
-  - "sudo apt-get install inkscape icnsutils"
+  - "sudo apt-get -y install inkscape icnsutils"
   - "pip install json-spec cairosvg"
 script: 
   - "json validate --schema-file=schema.json --document-file=data.json"
