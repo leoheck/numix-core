@@ -9,7 +9,7 @@ for icon in data:
         root = data[icon]["linux"]
         if "symlinks" in root.keys() and len(root["symlinks"]) == 0:
             del data[icon]["linux"]["symlinks"]
-        elif "symlinks" in root.keys() and len(root["symlinks]) != 0:
+        elif "symlinks" in root.keys() and len(root["symlinks"]) != 0:
             sorted(data[icon]["linux"]["symlinks"], key=lambda icon_name: icon_name.lower())
 sorted(data, key=lambda icon_name: icon_name.lower())
 
