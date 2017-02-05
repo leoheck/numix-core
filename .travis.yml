@@ -8,7 +8,7 @@ install:
   - "sudo apt-get -y install inkscape icnsutils python3-pip"
   - "pip3 install json-spec cairosvg pylint"
 script: 
-  - "pylint gen.py --ignore-patterns=C0103"
+  - "pylint --disable=C0103 gen.py"
   - "cd ./tests/"
   - "python3 validate-json.py"
   - "python3 order.py"
