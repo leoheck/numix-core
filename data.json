@@ -20,17 +20,17 @@
             "root": "3Depict"
         }
     },
-    "4kvideodownloader": {
-        "linux": {
-            "root": "4kvideodownloader"
-        }
-    },
     "4Pane": {
         "linux": {
             "root": "4Pane",
             "symlinks": [
                 "4PaneIcon48"
             ]
+        }
+    },
+    "4kvideodownloader": {
+        "linux": {
+            "root": "4kvideodownloader"
         }
     },
     "7zip": {
@@ -55,6 +55,481 @@
     "9AD6_Origin.0": {
         "linux": {
             "root": "9AD6_Origin.0"
+        }
+    },
+    "AdobeAIR": {
+        "linux": {
+            "root": "AdobeAIR",
+            "symlinks": [
+                "adobe-air",
+                "air"
+            ]
+        }
+    },
+    "AdobeAfterEffect": {
+        "linux": {
+            "root": "AdobeAfterEffect"
+        }
+    },
+    "AdobeAudition": {
+        "linux": {
+            "root": "AdobeAudition"
+        }
+    },
+    "AdobeBridge": {
+        "linux": {
+            "root": "AdobeBridge"
+        }
+    },
+    "AdobeDreamweaver": {
+        "linux": {
+            "root": "AdobeDreamweaver"
+        }
+    },
+    "AdobeEncore": {
+        "linux": {
+            "root": "AdobeEncore",
+            "symlinks": [
+                "AdobeMediaEncore"
+            ]
+        }
+    },
+    "AdobeFirework": {
+        "linux": {
+            "root": "AdobeFirework"
+        }
+    },
+    "AdobeFlashBuilder": {
+        "linux": {
+            "root": "AdobeFlashBuilder"
+        }
+    },
+    "AdobeIndesign": {
+        "linux": {
+            "root": "AdobeIndesign"
+        }
+    },
+    "AdobeLightroom": {
+        "linux": {
+            "root": "AdobeLightroom"
+        }
+    },
+    "AdobePhotoshop": {
+        "linux": {
+            "root": "AdobePhotoshop"
+        }
+    },
+    "AdobePrelude": {
+        "linux": {
+            "root": "AdobePrelude"
+        }
+    },
+    "AdobePremierePro": {
+        "linux": {
+            "root": "AdobePremierePro"
+        }
+    },
+    "AdobeSpeedgrade": {
+        "linux": {
+            "root": "AdobeSpeedgrade"
+        }
+    },
+    "AdobeUpdate": {
+        "linux": {
+            "root": "AdobeUpdate"
+        }
+    },
+    "AdobeWidgetBrowser": {
+        "linux": {
+            "root": "AdobeWidgetBrowser"
+        }
+    },
+    "Adobeillustrator": {
+        "linux": {
+            "root": "Adobeillustrator"
+        }
+    },
+    "AirPortUtility": {
+        "linux": {
+            "root": "AirPortUtility"
+        }
+    },
+    "AlphaPlot": {
+        "linux": {
+            "root": "AlphaPlot",
+            "symlinks": [
+                "alphaplot"
+            ]
+        }
+    },
+    "AndYetItMoves": {
+        "linux": {
+            "root": "AndYetItMoves",
+            "symlinks": [
+                "steam_icon_18700",
+                "steam_icon_18710"
+            ]
+        }
+    },
+    "AtomicGameEngine": {
+        "linux": {
+            "root": "AtomicGameEngine"
+        }
+    },
+    "Awesomenauts": {
+        "linux": {
+            "root": "Awesomenauts",
+            "symlinks": [
+                "steam_icon_204300"
+            ]
+        }
+    },
+    "Azureus": {
+        "linux": {
+            "root": "Azureus"
+        }
+    },
+    "Battle.net": {
+        "linux": {
+            "root": "Battle.net"
+        }
+    },
+    "BlankUp": {
+        "linux": {
+            "root": "BlankUp"
+        }
+    },
+    "BrokenSword": {
+        "linux": {
+            "root": "BrokenSword",
+            "symlinks": [
+                "steam_icon_57640"
+            ]
+        }
+    },
+    "Civ-V": {
+        "linux": {
+            "root": "Civ-V"
+        }
+    },
+    "DC++": {
+        "linux": {
+            "root": "DC++",
+            "symlinks": [
+                "dc++"
+            ]
+        }
+    },
+    "DNSCryptClient": {
+        "linux": {
+            "root": "DNSCryptClient"
+        }
+    },
+    "Darwinia": {
+        "linux": {
+            "root": "Darwinia"
+        }
+    },
+    "DeSmuME": {
+        "linux": {
+            "root": "DeSmuME"
+        }
+    },
+    "ET": {
+        "linux": {
+            "root": "ET"
+        }
+    },
+    "Encryptr": {
+        "linux": {
+            "root": "Encryptr"
+        }
+    },
+    "FTL": {
+        "linux": {
+            "root": "FTL",
+            "symlinks": [
+                "steam_icon_212680"
+            ]
+        }
+    },
+    "Finder_w": {
+        "linux": {
+            "root": "Finder_w"
+        }
+    },
+    "ForgedAllianceForever": {
+        "linux": {
+            "root": "ForgedAllianceForever"
+        }
+    },
+    "Foto": {
+        "linux": {
+            "root": "Foto",
+            "symlinks": [
+                "foto",
+                "fotoxx"
+            ]
+        }
+    },
+    "GDevelop": {
+        "linux": {
+            "root": "GDevelop"
+        }
+    },
+    "GammaRay": {
+        "linux": {
+            "root": "GammaRay"
+        }
+    },
+    "Gitter": {
+        "linux": {
+            "root": "Gitter",
+            "symlinks": [
+                "gitter"
+            ]
+        }
+    },
+    "GreedCorp": {
+        "linux": {
+            "root": "GreedCorp"
+        }
+    },
+    "Incredipede": {
+        "linux": {
+            "root": "Incredipede"
+        }
+    },
+    "KKEdit": {
+        "linux": {
+            "root": "KKEdit"
+        }
+    },
+    "KKEditRoot": {
+        "linux": {
+            "root": "KKEditRoot"
+        }
+    },
+    "LeagueOfLegends": {
+        "linux": {
+            "root": "LeagueOfLegends"
+        }
+    },
+    "LogAnalyzer": {
+        "linux": {
+            "root": "LogAnalyzer"
+        }
+    },
+    "MediaElch": {
+        "linux": {
+            "root": "MediaElch",
+            "symlinks": [
+                "mediaelch"
+            ]
+        }
+    },
+    "NoMachine-icon": {
+        "linux": {
+            "root": "NoMachine-icon"
+        }
+    },
+    "PurpleEgg": {
+        "linux": {
+            "root": "PurpleEgg",
+            "symlinks": [
+                "org.gnome.PurpleEgg"
+            ]
+        }
+    },
+    "QMPlay2": {
+        "linux": {
+            "root": "QMPlay2"
+        }
+    },
+    "QOwnNotes": {
+        "linux": {
+            "root": "QOwnNotes"
+        }
+    },
+    "QtAV": {
+        "linux": {
+            "root": "QtAV"
+        }
+    },
+    "Quamachi": {
+        "linux": {
+            "root": "Quamachi"
+        }
+    },
+    "RaceTheSun": {
+        "linux": {
+            "root": "RaceTheSun"
+        }
+    },
+    "Runner": {
+        "linux": {
+            "root": "Runner",
+            "symlinks": [
+                "steam_icon_218060"
+            ]
+        }
+    },
+    "SCForgedAlliance": {
+        "linux": {
+            "root": "SCForgedAlliance",
+            "symlinks": [
+                "steam_icon_9420"
+            ]
+        }
+    },
+    "Sci48M": {
+        "linux": {
+            "root": "Sci48M"
+        }
+    },
+    "Scrivener": {
+        "linux": {
+            "root": "Scrivener"
+        }
+    },
+    "SoapUI": {
+        "linux": {
+            "root": "SoapUI",
+            "symlinks": [
+                "soapui"
+            ]
+        }
+    },
+    "SpiderOak": {
+        "linux": {
+            "root": "SpiderOak",
+            "symlinks": [
+                "spideroak"
+            ]
+        }
+    },
+    "SpiderOakONE": {
+        "linux": {
+            "root": "SpiderOakONE"
+        }
+    },
+    "SplashtopStreamer": {
+        "linux": {
+            "root": "SplashtopStreamer"
+        }
+    },
+    "Spring": {
+        "linux": {
+            "root": "Spring",
+            "symlinks": [
+                "spring"
+            ]
+        }
+    },
+    "Sqlectron": {
+        "linux": {
+            "root": "Sqlectron"
+        }
+    },
+    "TeXmacs": {
+        "linux": {
+            "root": "TeXmacs"
+        }
+    },
+    "TeXworks": {
+        "linux": {
+            "root": "TeXworks"
+        }
+    },
+    "TicketToRide": {
+        "linux": {
+            "root": "TicketToRide",
+            "symlinks": [
+                "steam_icon_108200"
+            ]
+        }
+    },
+    "ToCA3": {
+        "linux": {
+            "root": "ToCA3",
+            "symlinks": [
+                "steam_icon_11500"
+            ]
+        }
+    },
+    "Tribler": {
+        "linux": {
+            "root": "Tribler"
+        }
+    },
+    "Trine": {
+        "linux": {
+            "root": "Trine",
+            "symlinks": [
+                "steam_icon_35700"
+            ]
+        }
+    },
+    "Trine2": {
+        "linux": {
+            "root": "Trine2",
+            "symlinks": [
+                "steam_icon_35720"
+            ]
+        }
+    },
+    "TruckSim": {
+        "linux": {
+            "root": "TruckSim",
+            "symlinks": [
+                "simutrans"
+            ]
+        }
+    },
+    "Vbox": {
+        "linux": {
+            "root": "Vbox",
+            "symlinks": [
+                "multisystem-test-iso",
+                "multisystem-vbox",
+                "VBox",
+                "vbox",
+                "virtual-box",
+                "virtualbox",
+                "virtualbox-bin",
+                "virtualbox-ose"
+            ]
+        }
+    },
+    "Veromix": {
+        "linux": {
+            "root": "Veromix"
+        }
+    },
+    "WoW": {
+        "linux": {
+            "root": "WoW"
+        }
+    },
+    "WorldOfTanks": {
+        "linux": {
+            "root": "WorldOfTanks"
+        }
+    },
+    "WormsReloaded": {
+        "linux": {
+            "root": "WormsReloaded",
+            "symlinks": [
+                "steam_icon_22600"
+            ]
+        }
+    },
+    "ZeGrapher": {
+        "linux": {
+            "root": "ZeGrapher",
+            "symlinks": [
+                "zegrapher"
+            ]
         }
     },
     "aarddict": {
@@ -292,98 +767,6 @@
             "root": "administration"
         }
     },
-    "AdobeAfterEffect": {
-        "linux": {
-            "root": "AdobeAfterEffect"
-        }
-    },
-    "AdobeAIR": {
-        "linux": {
-            "root": "AdobeAIR",
-            "symlinks": [
-                "adobe-air",
-                "air"
-            ]
-        }
-    },
-    "AdobeAudition": {
-        "linux": {
-            "root": "AdobeAudition"
-        }
-    },
-    "AdobeBridge": {
-        "linux": {
-            "root": "AdobeBridge"
-        }
-    },
-    "AdobeDreamweaver": {
-        "linux": {
-            "root": "AdobeDreamweaver"
-        }
-    },
-    "AdobeEncore": {
-        "linux": {
-            "root": "AdobeEncore",
-            "symlinks": [
-                "AdobeMediaEncore"
-            ]
-        }
-    },
-    "AdobeFirework": {
-        "linux": {
-            "root": "AdobeFirework"
-        }
-    },
-    "AdobeFlashBuilder": {
-        "linux": {
-            "root": "AdobeFlashBuilder"
-        }
-    },
-    "Adobeillustrator": {
-        "linux": {
-            "root": "Adobeillustrator"
-        }
-    },
-    "AdobeIndesign": {
-        "linux": {
-            "root": "AdobeIndesign"
-        }
-    },
-    "AdobeLightroom": {
-        "linux": {
-            "root": "AdobeLightroom"
-        }
-    },
-    "AdobePhotoshop": {
-        "linux": {
-            "root": "AdobePhotoshop"
-        }
-    },
-    "AdobePrelude": {
-        "linux": {
-            "root": "AdobePrelude"
-        }
-    },
-    "AdobePremierePro": {
-        "linux": {
-            "root": "AdobePremierePro"
-        }
-    },
-    "AdobeSpeedgrade": {
-        "linux": {
-            "root": "AdobeSpeedgrade"
-        }
-    },
-    "AdobeUpdate": {
-        "linux": {
-            "root": "AdobeUpdate"
-        }
-    },
-    "AdobeWidgetBrowser": {
-        "linux": {
-            "root": "AdobeWidgetBrowser"
-        }
-    },
     "aegisub": {
         "linux": {
             "root": "aegisub"
@@ -402,11 +785,6 @@
     "ailurus": {
         "linux": {
             "root": "ailurus"
-        }
-    },
-    "AirPortUtility": {
-        "linux": {
-            "root": "AirPortUtility"
         }
     },
     "akonadi": {
@@ -454,14 +832,6 @@
     "almanah": {
         "linux": {
             "root": "almanah"
-        }
-    },
-    "AlphaPlot": {
-        "linux": {
-            "root": "AlphaPlot",
-            "symlinks": [
-                "alphaplot"
-            ]
         }
     },
     "altyo": {
@@ -578,15 +948,6 @@
             ]
         }
     },
-    "AndYetItMoves": {
-        "linux": {
-            "root": "AndYetItMoves",
-            "symlinks": [
-                "steam_icon_18700",
-                "steam_icon_18710"
-            ]
-        }
-    },
     "angry-birds": {
         "linux": {
             "root": "angry-birds",
@@ -637,8 +998,8 @@
     },
     "app-launcher": {
         "linux": {
-            "root": "app-launcher",
-            "bfb": "launcher_bfb"
+            "bfb": "launcher_bfb",
+            "root": "app-launcher"
         }
     },
     "appgrid": {
@@ -862,7 +1223,7 @@
     "asc-de": {
         "linux": {
             "root": "asc-de",
-            "symlinks" : [
+            "symlinks": [
                 "onlyoffice"
             ]
         }
@@ -940,11 +1301,6 @@
     "atom-beta": {
         "linux": {
             "root": "atom-beta"
-        }
-    },
-    "AtomicGameEngine": {
-        "linux": {
-            "root": "AtomicGameEngine"
         }
     },
     "auale": {
@@ -1054,14 +1410,6 @@
             ]
         }
     },
-    "Awesomenauts": {
-        "linux": {
-            "root": "Awesomenauts",
-            "symlinks": [
-                "steam_icon_204300"
-            ]
-        }
-    },
     "awf": {
         "linux": {
             "root": "awf"
@@ -1078,11 +1426,6 @@
     "awn-applet-digital-clock": {
         "linux": {
             "root": "awn-applet-digital-clock"
-        }
-    },
-    "Azureus": {
-        "linux": {
-            "root": "Azureus"
         }
     },
     "baka-mplayer": {
@@ -1148,11 +1491,6 @@
     "bat": {
         "linux": {
             "root": "bat"
-        }
-    },
-    "Battle.net": {
-        "linux": {
-            "root": "Battle.net"
         }
     },
     "bcloud": {
@@ -1235,11 +1573,6 @@
     "blam": {
         "linux": {
             "root": "blam"
-        }
-    },
-    "BlankUp": {
-        "linux": {
-            "root": "BlankUp"
         }
     },
     "bleachbit": {
@@ -1444,14 +1777,6 @@
     "brave": {
         "linux": {
             "root": "brave"
-        }
-    },
-    "BrokenSword": {
-        "linux": {
-            "root": "BrokenSword",
-            "symlinks": [
-                "steam_icon_57640"
-            ]
         }
     },
     "browser-tor": {
@@ -2596,11 +2921,6 @@
             ]
         }
     },
-    "Civ-V": {
-        "linux": {
-            "root": "Civ-V"
-        }
-    },
     "ckb": {
         "linux": {
             "root": "ckb",
@@ -2983,11 +3303,6 @@
             ]
         }
     },
-    "Darwinia": {
-        "linux": {
-            "root": "Darwinia"
-        }
-    },
     "dassault-systemes.draftsight": {
         "linux": {
             "root": "dassault-systemes.draftsight"
@@ -3001,14 +3316,6 @@
     "dbeaver": {
         "linux": {
             "root": "dbeaver"
-        }
-    },
-    "DC++": {
-        "linux": {
-            "root": "DC++",
-            "symlinks": [
-                "dc++"
-            ]
         }
     },
     "dconf-editor": {
@@ -3160,11 +3467,6 @@
                 "xfce4-panel-menu",
                 "xfce4_xicon.svg"
             ]
-        }
-    },
-    "DeSmuME": {
-        "linux": {
-            "root": "DeSmuME"
         }
     },
     "desura": {
@@ -3535,8 +3837,8 @@
     },
     "distributor-logo-ubuntu": {
         "linux": {
-            "root": "distributor-logo-ubuntu",
             "bfb": "launcher_bfb_ubuntu",
+            "root": "distributor-logo-ubuntu",
             "symlinks": [
                 "distributor-logo",
                 "ubuntu-online-tour"
@@ -3589,11 +3891,6 @@
     "djvulibre-djview4": {
         "linux": {
             "root": "djvulibre-djview4"
-        }
-    },
-    "DNSCryptClient": {
-        "linux": {
-            "root": "DNSCryptClient"
         }
     },
     "docear": {
@@ -3916,11 +4213,6 @@
             ]
         }
     },
-    "Encryptr": {
-        "linux": {
-            "root": "Encryptr"
-        }
-    },
     "engauge-digitizer": {
         "linux": {
             "root": "engauge-digitizer",
@@ -3995,11 +4287,6 @@
             "symlinks": [
                 "kmouth"
             ]
-        }
-    },
-    "ET": {
-        "linux": {
-            "root": "ET"
         }
     },
     "etcher": {
@@ -4152,7 +4439,7 @@
         "linux": {
             "root": "feedreader",
             "symlinks": [
-               "org.gnome.feedreader"
+                "org.gnome.feedreader"
             ]
         }
     },
@@ -4243,11 +4530,6 @@
     "final-term": {
         "linux": {
             "root": "final-term"
-        }
-    },
-    "Finder_w": {
-        "linux": {
-            "root": "Finder_w"
         }
     },
     "firefox": {
@@ -4463,20 +4745,6 @@
             "root": "footnote-1"
         }
     },
-    "ForgedAllianceForever": {
-        "linux": {
-            "root": "ForgedAllianceForever"
-        }
-    },
-    "Foto": {
-        "linux": {
-            "root": "Foto",
-            "symlinks": [
-                "foto",
-                "fotoxx"
-            ]
-        }
-    },
     "fotoprint": {
         "linux": {
             "root": "fotoprint"
@@ -4663,14 +4931,6 @@
             "root": "fs-uae"
         }
     },
-    "FTL": {
-        "linux": {
-            "root": "FTL",
-            "symlinks": [
-                "steam_icon_212680"
-            ]
-        }
-    },
     "furiusisomount": {
         "linux": {
             "root": "furiusisomount"
@@ -4684,6 +4944,27 @@
     "fusion-icon": {
         "linux": {
             "root": "fusion-icon"
+        }
+    },
+    "gFTP": {
+        "linux": {
+            "root": "gFTP",
+            "symlinks": [
+                "gftp"
+            ]
+        }
+    },
+    "gPicon": {
+        "linux": {
+            "root": "gPicon"
+        }
+    },
+    "gSTM": {
+        "linux": {
+            "root": "gSTM",
+            "symlinks": [
+                "gstm"
+            ]
         }
     },
     "gajim": {
@@ -4702,11 +4983,6 @@
             "symlinks": [
                 "gambas3"
             ]
-        }
-    },
-    "GammaRay": {
-        "linux": {
-            "root": "GammaRay"
         }
     },
     "ganttproject": {
@@ -4831,11 +5107,6 @@
             ]
         }
     },
-    "GDevelop": {
-        "linux": {
-            "root": "GDevelop"
-        }
-    },
     "geany": {
         "linux": {
             "root": "geany"
@@ -4920,14 +5191,6 @@
             "root": "gespeaker"
         }
     },
-    "gFTP": {
-        "linux": {
-            "root": "gFTP",
-            "symlinks": [
-                "gftp"
-            ]
-        }
-    },
     "ghex": {
         "linux": {
             "root": "ghex"
@@ -4989,14 +5252,6 @@
     "gitlab": {
         "linux": {
             "root": "gitlab"
-        }
-    },
-    "Gitter": {
-        "linux": {
-            "root": "Gitter",
-            "symlinks": [
-                "gitter"
-            ]
         }
     },
     "gkdebconf": {
@@ -5749,11 +6004,6 @@
             "root": "gpg-crypter"
         }
     },
-    "gPicon": {
-        "linux": {
-            "root": "gPicon"
-        }
-    },
     "gpicview": {
         "linux": {
             "root": "gpicview",
@@ -5840,11 +6090,6 @@
             ]
         }
     },
-    "GreedCorp": {
-        "linux": {
-            "root": "GreedCorp"
-        }
-    },
     "greenfoot": {
         "linux": {
             "root": "greenfoot",
@@ -5927,14 +6172,6 @@
     "gspectrum": {
         "linux": {
             "root": "gspectrum"
-        }
-    },
-    "gSTM": {
-        "linux": {
-            "root": "gSTM",
-            "symlinks": [
-                "gstm"
-            ]
         }
     },
     "gstreamer": {
@@ -6346,6 +6583,11 @@
             "root": "i2prouter"
         }
     },
+    "iViewer": {
+        "linux": {
+            "root": "iViewer"
+        }
+    },
     "iagno": {
         "linux": {
             "root": "iagno"
@@ -6428,11 +6670,6 @@
     "impro-visor": {
         "linux": {
             "root": "impro-visor"
-        }
-    },
-    "Incredipede": {
-        "linux": {
-            "root": "Incredipede"
         }
     },
     "indicator-remindor": {
@@ -6590,7 +6827,6 @@
         "linux": {
             "root": "irssi"
         }
-
     },
     "ispconfig": {
         "linux": {
@@ -6615,11 +6851,6 @@
                 "minitunes",
                 "tunesview"
             ]
-        }
-    },
-    "iViewer": {
-        "linux": {
-            "root": "iViewer"
         }
     },
     "jabber-im": {
@@ -7102,16 +7333,6 @@
             "root": "kitematic"
         }
     },
-    "KKEdit": {
-        "linux": {
-            "root": "KKEdit"
-        }
-    },
-    "KKEditRoot": {
-        "linux": {
-            "root": "KKEditRoot"
-        }
-    },
     "klatexformula": {
         "linux": {
             "root": "klatexformula"
@@ -7518,11 +7739,6 @@
             ]
         }
     },
-    "LeagueOfLegends": {
-        "linux": {
-            "root": "LeagueOfLegends"
-        }
-    },
     "lenmus": {
         "linux": {
             "root": "lenmus"
@@ -7747,11 +7963,6 @@
     "lmms": {
         "linux": {
             "root": "lmms"
-        }
-    },
-    "LogAnalyzer": {
-        "linux": {
-            "root": "LogAnalyzer"
         }
     },
     "loggerpro": {
@@ -8070,14 +8281,6 @@
             "symlinks": [
                 "banshee",
                 "banshee-1"
-            ]
-        }
-    },
-    "MediaElch": {
-        "linux": {
-            "root": "MediaElch",
-            "symlinks": [
-                "mediaelch"
             ]
         }
     },
@@ -8800,11 +9003,6 @@
             "root": "nodejs"
         }
     },
-    "NoMachine-icon": {
-        "linux": {
-            "root": "NoMachine-icon"
-        }
-    },
     "nomacs": {
         "linux": {
             "root": "nomacs"
@@ -8832,8 +9030,8 @@
     },
     "numix": {
         "linux": {
-            "root": "numix",
             "bfb": "launcher_bfb_numix",
+            "root": "numix",
             "symlinks": [
                 "gtk3-icon-browser",
                 "preferences-desktop-icons",
@@ -10224,14 +10422,6 @@
             "root": "pumpa"
         }
     },
-    "PurpleEgg": {
-        "linux": {
-            "root": "PurpleEgg",
-            "symlinks": [
-                "org.gnome.PurpleEgg"
-            ]
-        }
-    },
     "putty": {
         "linux": {
             "root": "putty",
@@ -10477,11 +10667,6 @@
             "root": "qmmp"
         }
     },
-    "QMPlay2": {
-        "linux": {
-            "root": "QMPlay2"
-        }
-    },
     "qomp": {
         "linux": {
             "root": "qomp"
@@ -10498,11 +10683,6 @@
             "symlinks": [
                 "pdfstudio9"
             ]
-        }
-    },
-    "QOwnNotes": {
-        "linux": {
-            "root": "QOwnNotes"
         }
     },
     "qpdfview": {
@@ -10569,11 +10749,6 @@
                 "assistant",
                 "assistant-qt4"
             ]
-        }
-    },
-    "QtAV": {
-        "linux": {
-            "root": "QtAV"
         }
     },
     "qtconfig": {
@@ -10701,11 +10876,6 @@
             "root": "quake4"
         }
     },
-    "Quamachi": {
-        "linux": {
-            "root": "Quamachi"
-        }
-    },
     "quassel": {
         "linux": {
             "root": "quassel"
@@ -10764,11 +10934,6 @@
     "raccoon": {
         "linux": {
             "root": "raccoon"
-        }
-    },
-    "RaceTheSun": {
-        "linux": {
-            "root": "RaceTheSun"
         }
     },
     "radio": {
@@ -11110,14 +11275,6 @@
             "root": "runescape"
         }
     },
-    "Runner": {
-        "linux": {
-            "root": "Runner",
-            "symlinks": [
-                "steam_icon_218060"
-            ]
-        }
-    },
     "rygel": {
         "linux": {
             "root": "rygel"
@@ -11171,19 +11328,6 @@
     "scantailor": {
         "linux": {
             "root": "scantailor"
-        }
-    },
-    "SCForgedAlliance": {
-        "linux": {
-            "root": "SCForgedAlliance",
-            "symlinks": [
-                "steam_icon_9420"
-            ]
-        }
-    },
-    "Sci48M": {
-        "linux": {
-            "root": "Sci48M"
         }
     },
     "scilab": {
@@ -11247,11 +11391,6 @@
             "symlinks": [
                 "scribus-ng"
             ]
-        }
-    },
-    "Scrivener": {
-        "linux": {
-            "root": "Scrivener"
         }
     },
     "scudcloud": {
@@ -11604,14 +11743,6 @@
             "root": "snes9x"
         }
     },
-    "SoapUI": {
-        "linux": {
-            "root": "SoapUI",
-            "symlinks": [
-                "soapui"
-            ]
-        }
-    },
     "software-center": {
         "linux": {
             "root": "software-center",
@@ -11743,24 +11874,6 @@
             ]
         }
     },
-    "SpiderOak": {
-        "linux": {
-            "root": "SpiderOak",
-            "symlinks": [
-                "spideroak"
-            ]
-        }
-    },
-    "SpiderOakONE": {
-        "linux": {
-            "root": "SpiderOakONE"
-        }
-    },
-    "SplashtopStreamer": {
-        "linux": {
-            "root": "SplashtopStreamer"
-        }
-    },
     "sportstracker": {
         "linux": {
             "root": "sportstracker"
@@ -11781,14 +11894,6 @@
             ]
         }
     },
-    "Spring": {
-        "linux": {
-            "root": "Spring",
-            "symlinks": [
-                "spring"
-            ]
-        }
-    },
     "springlobby": {
         "linux": {
             "root": "springlobby"
@@ -11805,11 +11910,6 @@
             "symlinks": [
                 "spyder3"
             ]
-        }
-    },
-    "Sqlectron": {
-        "linux": {
-            "root": "Sqlectron"
         }
     },
     "sqlitebrowser": {
@@ -13096,11 +13196,6 @@
             ]
         }
     },
-    "TeXmacs": {
-        "linux": {
-            "root": "TeXmacs"
-        }
-    },
     "texmaker": {
         "linux": {
             "root": "texmaker",
@@ -13146,11 +13241,6 @@
                 "xed",
                 "xfce-edit"
             ]
-        }
-    },
-    "TeXworks": {
-        "linux": {
-            "root": "TeXworks"
         }
     },
     "theme-config": {
@@ -13212,14 +13302,6 @@
             ]
         }
     },
-    "TicketToRide": {
-        "linux": {
-            "root": "TicketToRide",
-            "symlinks": [
-                "steam_icon_108200"
-            ]
-        }
-    },
     "tictactoe": {
         "linux": {
             "root": "tictactoe",
@@ -13271,14 +13353,6 @@
     "tkabber": {
         "linux": {
             "root": "tkabber"
-        }
-    },
-    "ToCA3": {
-        "linux": {
-            "root": "ToCA3",
-            "symlinks": [
-                "steam_icon_11500"
-            ]
         }
     },
     "tomahawk": {
@@ -13370,11 +13444,6 @@
             "root": "tresorit"
         }
     },
-    "Tribler": {
-        "linux": {
-            "root": "Tribler"
-        }
-    },
     "trillian": {
         "linux": {
             "root": "trillian"
@@ -13385,22 +13454,6 @@
             "root": "trimage"
         }
     },
-    "Trine": {
-        "linux": {
-            "root": "Trine",
-            "symlinks": [
-                "steam_icon_35700"
-            ]
-        }
-    },
-    "Trine2": {
-        "linux": {
-            "root": "Trine2",
-            "symlinks": [
-                "steam_icon_35720"
-            ]
-        }
-    },
     "triplea": {
         "linux": {
             "root": "triplea"
@@ -13409,14 +13462,6 @@
     "trojita": {
         "linux": {
             "root": "trojita"
-        }
-    },
-    "TruckSim": {
-        "linux": {
-            "root": "TruckSim",
-            "symlinks": [
-                "simutrans"
-            ]
         }
     },
     "truecrypt": {
@@ -13764,21 +13809,6 @@
             "root": "vbam"
         }
     },
-    "Vbox": {
-        "linux": {
-            "root": "Vbox",
-            "symlinks": [
-                "multisystem-test-iso",
-                "multisystem-vbox",
-                "VBox",
-                "vbox",
-                "virtual-box",
-                "virtualbox",
-                "virtualbox-bin",
-                "virtualbox-ose"
-            ]
-        }
-    },
     "vcmiclient": {
         "linux": {
             "root": "vcmiclient"
@@ -13797,11 +13827,6 @@
     "veracrypt": {
         "linux": {
             "root": "veracrypt"
-        }
-    },
-    "Veromix": {
-        "linux": {
-            "root": "Veromix"
         }
     },
     "veusz": {
@@ -14607,24 +14632,6 @@
             "root": "workspace-switcher-top-left"
         }
     },
-    "WorldOfTanks": {
-        "linux": {
-            "root": "WorldOfTanks"
-        }
-    },
-    "WormsReloaded": {
-        "linux": {
-            "root": "WormsReloaded",
-            "symlinks": [
-                "steam_icon_22600"
-            ]
-        }
-    },
-    "WoW": {
-        "linux": {
-            "root": "WoW"
-        }
-    },
     "wow-launcher": {
         "linux": {
             "root": "wow-launcher"
@@ -14918,7 +14925,6 @@
             "root": "yandex-browser-beta"
         }
     },
-
     "yaourtgui": {
         "linux": {
             "root": "yaourtgui"
@@ -15021,14 +15027,6 @@
     "zeal": {
         "linux": {
             "root": "zeal"
-        }
-    },
-    "ZeGrapher": {
-        "linux": {
-            "root": "ZeGrapher",
-            "symlinks": [
-                "zegrapher"
-            ]
         }
     },
     "zenmap": {
