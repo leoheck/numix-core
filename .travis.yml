@@ -2,17 +2,13 @@ dist: trusty
 sudo: required
 language: python
 python:
-  - "2.7"
-  - "3.2"
-  - "3.3"
-  - "3.4"
-  - "3.5"
   - "3.6"
 install:
   - "sudo apt-get -y update"
   - "sudo apt-get -y install inkscape icnsutils python3-pip"
-  - "pip3 install json-spec cairosvg"
+  - "pip3 install json-spec cairosvg pylint"
 script: 
+  - "pylint gen.py --ignore-patterns=C0103"
   - "cd ./tests/"
   - "python3 validate-json.py"
   - "python3 order.py"
